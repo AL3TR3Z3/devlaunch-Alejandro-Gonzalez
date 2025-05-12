@@ -6,3 +6,10 @@ Satoshi Nakamoto, Bitcoin ha desafiado los modelos económicos tradicionales al 
 Este proyecto tiene como objetivo explorar qué es Bitcoin, cómo funciona, cuáles son sus principales características y el impacto que ha tenido y podría seguir teniendo 
 en la economía mundial. A través de esta investigación, se pretende brindar una comprensión clara y accesible de una de las innovaciones tecnológicas más importantes del siglo XXI.
 
+Bitcoin es una criptomoneda, es decir, una moneda digital que permite realizar transacciones sin necesidad de un banco o entidad central. Funciona mediante una tecnología llamada 
+blockchain (cadena de bloques), que registra todas las operaciones de forma segura, transparente y descentralizada.
+Los usuarios pueden enviar y recibir bitcoins a través de billeteras digitales. Las transacciones son verificadas por una red de computadoras mediante un proceso llamado minería, 
+que también sirve para crear nuevos bitcoins. A diferencia del dinero tradicional, solo existirán 21 millones de bitcoins, lo que lo convierte en un activo limitado.
+Entre sus principales ventajas se encuentran la independencia de bancos, las bajas comisiones en transacciones internacionales y la protección contra la inflación. 
+Sin embargo, también presenta riesgos como la alta volatilidad de su precio, el uso potencial en actividades ilegales y la falta de regulación en muchos países.
+
