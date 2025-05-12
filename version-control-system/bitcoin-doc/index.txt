@@ -1,1 +1,8 @@
-¿What is bitcoin?
+¿Qué es bitcoin?
+
+En la última década, el mundo ha sido testigo de una transformación profunda en la forma en que entendemos el dinero, las finanzas y las transacciones digitales. 
+En el centro de esta revolución se encuentra Bitcoin, la primera criptomoneda creada y la más conocida hasta la fecha. Desde su lanzamiento en 2009 por el misterioso 
+Satoshi Nakamoto, Bitcoin ha desafiado los modelos económicos tradicionales al proponer una alternativa descentralizada, segura y global al sistema financiero convencional.
+Este proyecto tiene como objetivo explorar qué es Bitcoin, cómo funciona, cuáles son sus principales características y el impacto que ha tenido y podría seguir teniendo 
+en la economía mundial. A través de esta investigación, se pretende brindar una comprensión clara y accesible de una de las innovaciones tecnológicas más importantes del siglo XXI.
+
