@@ -13,3 +13,5 @@ que también sirve para crear nuevos bitcoins. A diferencia del dinero tradicion
 Entre sus principales ventajas se encuentran la independencia de bancos, las bajas comisiones en transacciones internacionales y la protección contra la inflación. 
 Sin embargo, también presenta riesgos como la alta volatilidad de su precio, el uso potencial en actividades ilegales y la falta de regulación en muchos países.
 
+Bitcoin representa una nueva forma de entender el dinero en la era digital. Aunque aún genera debate y presenta desafíos, su impacto en el sistema financiero global es innegable. 
+Comprender cómo funciona y sus implicaciones nos permite estar mejor preparados ante el futuro de la economía y la tecnología.
