@@ -1,0 +1,41 @@
+Proporciona una explicación detallada en un archivo .txt de las acciones que 
+realizarías al prepararte para conducir un coche automático.
+
+Este ejercicio está diseñado para ayudarte a entender los conceptos básicos de los 
+algoritmos al darte un ejemplo del mundo real sobre cómo llevar tu coche a dar un paseo.
+
+
+SOLUCIÓN:
+
+Verificar que tengo las llaves del coche conmigo.
+
+Dirigirme hacia el coche.
+Procedo a abrir el vehículo.
+
+¿Está el coche abierto?
+- Si no está abierto, abro los seguros del coche y seguidamente abro, ingreso y cierro la puerta..
+- Si está abierto, abro, ingreso y cierro la puerta.
+
+Verifico que el asiento y los retrovisores estén configurados correctamente a mi modo de manejo.
+
+Presiono el pedal de frenado del coche para que me de la opción de encender el vehículo.
+
+¿El modo de encendido del coche es con llave o por botón de inicio?
+- Si es con llave, introduzco la llave y giro a la derecha para encender el coche.
+-Si es con botón de inicio, oprimo el interruptor de encendido del coche.
+
+Verifico que el coche no tenga niguna señal de alerta sobre alguna falla.
+
+¿Es un paseo nocturno?
+- Si es un paseo nocturno procedo a encender las luces del coche.
+- Si no es un paseo nocturno, omito encender las luces del coche.
+
+Desactivo el freno de mano.
+
+Verifico que no venga ningún vehículo o peatón cerca.
+
+Presiono el pedal de frenado y paso de modo "Parking" a modo "Drive" para comenzar a avanzar con el coche.
+
+Presiono el pedal de aceleración respetando los límites de velocidad.
+
+Disfruto del paseo en mi coche con precaución.
