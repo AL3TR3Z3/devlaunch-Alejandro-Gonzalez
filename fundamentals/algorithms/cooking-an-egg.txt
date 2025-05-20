@@ -1,0 +1,54 @@
+Proporciona una explicación detallada en un archivo .txt de las acciones que realizarías 
+al cocinar un huevo.
+
+
+SOLUCIÓN:
+
+Me dirijo a la cocina.
+
+Verifico que tenga los ingredientes necesarios.
+
+¿Hay huevos?
+-Si hay, tomo 1 huevo.
+-Si no hay, procedo a comprar huevos.
+
+¿Hay aceite?
+-Si hay, tomo el aceite.
+-Si no hay, procedo a comprar aceite.
+
+¿Hay sal?
+-Si hay, tomo la sal.
+-Si no hay, procedo a comprar sal.
+
+¿Hay pimienta?
+-Si hay, tomo la pimienta.
+-Si no hay, procedo a comprar pimienta.
+
+Tomo un sartén.
+
+Tomo una espatula.
+
+Enciendo uno de los discos de la cocina a fuego alto.
+
+Pongo el sartén a calentar en el disco.
+
+Espero a que esté en una temperatura media y agrego el aceite.
+
+Una vez haya calentado lo suficiente abro el huevo y lo vierto en el sartén.
+
+Agrego sal al gusto sobre el huevo.
+
+Agrego pimienta al gusto sobre el huevo.
+
+Busco un plato mientras espero a que esté bien cocido.
+
+Una vez bien cocinado apago el disco de la cocina que estaba utilizando.
+
+Tomo la espatula y sirvo el huevo en el plato.
+
+Aparto el sartén del disco que aún continúa caliente.
+
+Tomo un tenedor. 
+
+Me preparo para disfrutar el huevo que ya he cocinado.
+
