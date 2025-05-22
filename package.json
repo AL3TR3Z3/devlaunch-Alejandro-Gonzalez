@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AL3TR3Z3/devlaunch-Alejandro-Gonzalez/issues"
   },
-  "homepage": "https://github.com/AL3TR3Z3/devlaunch-Alejandro-Gonzalez#readme"
+  "homepage": "https://github.com/AL3TR3Z3/devlaunch-Alejandro-Gonzalez#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
